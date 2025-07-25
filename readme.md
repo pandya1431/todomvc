@@ -1,4 +1,4 @@
-# ![TodoMVC](media/logo.png)
+# ![To-do list by sandeep](media/logo.png)
 
 > Helping you select an MV\* framework
 
